@@ -8,7 +8,7 @@ A 3D printed template for hand soldering Bourns 70ABJ-4-M connectors on DIY prot
 # Files and directories
 
 - [stl](../master/stl): contain all the STLs of the project
-- source: contain the source in FreeCAD format
+- [source](../master/source): contain the source in FreeCAD format
 
 # Resources
 
